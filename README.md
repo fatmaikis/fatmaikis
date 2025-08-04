@@ -26,6 +26,6 @@
 
 ### 📫 Bana Ulaş
 
-[LinkedIn](https://www.linkedin.com/in/fatma-ikis/)  
+[LinkedIn](https://www.linkedin.com/in/fatma-ikis/) :https://www.linkedin.com/in/fatma-ikis/
 📧 Email: ikiss.fatmaa@gmail.com
 
