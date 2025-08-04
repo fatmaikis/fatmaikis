@@ -1,4 +1,6 @@
-                                                    ### 👋 Merhaba! Ben Fatma Ikış
+<p align="center">
+  <h3>👋 Merhaba! Ben Fatma Ikış</h3>
+</p>
 
 🧑‍💻 Jr. .NET Developer olarak yazılım dünyasında kendimi geliştirmeye devam ediyorum.  
 🔍 Özellikle C#, ASP.NET Core ve Entity Framework üzerine yoğunlaştım.  
