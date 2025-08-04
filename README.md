@@ -1,4 +1,4 @@
-### 👋 Merhaba! Ben Fatma
+### 👋 Merhaba! Ben Fatma Ikış
 
 🧑‍💻 Jr. .NET Developer olarak yazılım dünyasında kendimi geliştirmeye devam ediyorum.  
 🔍 Özellikle C#, ASP.NET Core ve Entity Framework üzerine yoğunlaştım.  
@@ -8,7 +8,8 @@
 
 ### 🚀 Kullandığım Teknolojiler ve Araçlar
 
-- ASP.NET Core, Entity Framework Core
+- ASP.NET MVC, ASP.NET Core,
+- Entity Framework Core, Web API
 - MSSQL, LINQ, ADO.NET
 - HTML, CSS, Bootstrap
 - Visual Studio, Git & GitHub
