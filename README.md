@@ -2,7 +2,7 @@
  <b>👋 Merhaba! Ben Fatma Ikış</b>
 </p>
 
-🧑‍💻 Jr. .NET Developer olarak yazılım dünyasında kendimi geliştirmeye devam ediyorum.  
+👩‍💻 Jr. .NET Developer olarak yazılım dünyasında kendimi geliştirmeye devam ediyorum.  
 🔍 Özellikle C#, ASP.NET Core ve Entity Framework üzerine yoğunlaştım.  
 🧱 Katmanlı mimari (N-Tier), Repository Pattern ve Clean Code prensipleri ile projeler geliştiriyorum.
 
