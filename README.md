@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><span style="font-size:40px">👋 Merhaba! Ben Fatma Ikış</span></strong>
+  <strong><span style="font-size:140px">👋 Merhaba! Ben Fatma Ikış</span></strong>
 </p>
 
 
