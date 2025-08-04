@@ -1,5 +1,5 @@
 <p align="center">
- <b>👋 Merhaba! Ben Fatma Ikış</b>
+ <h1><b>👋 Merhaba! Ben Fatma Ikış</b></h1>
 </p>
 
 👩‍💻 Jr. .NET Developer olarak yazılım dünyasında kendimi geliştirmeye devam ediyorum.  
