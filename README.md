@@ -1,6 +1,7 @@
 <p align="center">
- <h1><b>👋 Merhaba! Ben Fatma Ikış</b></h1>
+  <strong><span style="font-size:28px">👋 Merhaba! Ben Fatma Ikış</span></strong>
 </p>
+
 
 👩‍💻 Jr. .NET Developer olarak yazılım dünyasında kendimi geliştirmeye devam ediyorum.  
 🔍 Özellikle C#, ASP.NET Core ve Entity Framework üzerine yoğunlaştım.  
